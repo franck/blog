@@ -31,3 +31,7 @@ theme = "ala-minimal"
     name = "Posts"
     url = "/posts/"
     weight = 2
+  [[menu.main]]
+    name = "Projets"
+    url = "/projets/"
+    weight = 3
