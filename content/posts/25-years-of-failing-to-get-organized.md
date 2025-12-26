@@ -52,7 +52,7 @@ Then one morning, I typed a task I'd postponed for the fourth time. And the syst
 
 I stared at the screen. No app had ever called me out before.
 
-I built a PKM system in Obsidian with AI agents woven through it. Here's [how I set up the publishing workflow](/posts/how-to-set-up-an-ai-managed-hugo-blog/). A `/daily` command that creates my daily note and asks about my focus. A coaching mode that challenges me when my tasks don't align with my goals. An agent that reviews my past todos and knows what I've been avoiding.
+I built a PKM system in Obsidian with AI agents woven through it. A `/daily` command that creates my daily note and asks about my focus. A coaching mode that challenges me when my tasks don't align with my goals. An agent that reviews my past todos and knows what I've been avoiding. Even a `/publish` command that [turns my drafts into blog posts](/posts/how-to-set-up-an-ai-managed-hugo-blog/) — the same system you're reading this on.
 
 The difference: the system pushes back.
 

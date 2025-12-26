@@ -8,7 +8,7 @@ description: "I used to dread publishing blog posts. Not the writing—that part
 
 I used to dread publishing blog posts.
 
-Not the writing—that part I loved. But after finishing a draft, I'd spend 30 minutes on tedious work: reformatting front matter, hunting for internal linking opportunities, manually updating old posts to reference new ones.
+The writing was hard enough. But after finishing a draft, I'd face 30 more minutes of tedious work: reformatting front matter, hunting for internal linking opportunities, manually updating old posts to reference new ones.
 
 Most posts never made it out of my drafts folder. The friction killed them.
 
@@ -18,7 +18,7 @@ Here's how to build the same system.
 
 ## What We're Building
 
-Before this system, I had [drafts collecting dust](/posts/25-years-of-failing-to-get-organized/). After? I publish consistently.
+This is part of the same Obsidian + AI system I described in [my 25 years of failed productivity systems](/posts/25-years-of-failing-to-get-organized/). That post covers the accountability side — the coaching, the goal alignment, the AI that calls you out. This post covers the publishing side — how to go from draft to live blog post with one command.
 
 The workflow:
 
@@ -64,7 +64,7 @@ hugo version
 
 - **Cloudflare account** (free tier)
 
-- **AI CLI** — I use [OpenCode](https://opencode.ai). Works with Claude Code, Cursor, or any AI that reads/writes files.
+-   **AI CLI** — I use [OpenCode](https://opencode.ai). This is the same tool that powers the coaching and accountability features I described in [my productivity post](/posts/25-years-of-failing-to-get-organized/). Works with Claude Code, Cursor, or any AI that reads/writes files.
 
 With these tools installed, let's set up the folder structure that makes this workflow possible.
 
