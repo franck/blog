@@ -1,0 +1,32 @@
+baseURL = "https://blog.pages.dev/"
+languageCode = "en-us"
+title = "Franck D'agostini"
+theme = "ala-minimal"
+
+# Pagination
+paginate = 10
+
+[params]
+  description = "My journey"
+  author = "Franck D'agostini"
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    lineNos = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2

@@ -1,0 +1,11 @@
+name = "ala-minimal"
+license = "MIT"
+licenselink = "https://github.com/yourname/ala-minimal/blob/master/LICENSE"
+description = "A minimal, content-focused theme inspired by A List Apart"
+homepage = "https://github.com/yourname/ala-minimal"
+tags = ["blog", "minimal", "clean", "responsive"]
+features = ["blog", "responsive", "minimal"]
+min_version = "0.100.0"
+
+[author]
+  name = "Franck D'agostini"
