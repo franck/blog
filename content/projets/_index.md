@@ -1,6 +1,6 @@
 ---
-title: "Projets"
-description: "Mes projets en cours"
+title: "Projects"
+description: "My ongoing projects"
 ---
 
-Bienvenue dans mes projets. Ici je documente mes aventures, mes créations et mes expérimentations.
+Welcome to my projects. Here I document my adventures, creations, and experiments.
