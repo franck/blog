@@ -10,9 +10,9 @@ description: "La Quête du Soleil de Minuit - 3 semaines en train jusqu'aux île
 
 > *"Cinq aventuriers partent d'Orléans en train pour atteindre les îles légendaires du nord, là où le soleil ne se couche jamais..."*
 
-**Mode de transport :** Interrail + locations ponctuelles si besoin
-**Itinéraire :** Orléans → Danemark → Suède → Nord de la Norvège → Retour
-**Dates :** 3-24 juillet 2026 (3 semaines)
+**Mode de transport :** Interrail + locations ponctuelles si besoin  
+**Itinéraire :** Orléans → Danemark → Suède → Nord de la Norvège → Retour  
+**Dates :** 3-24 juillet 2026 (3 semaines)  
 **Voyageurs :** Famille de 5 (enfants de 16, 13 et 7 ans)
 
 ---
