@@ -316,7 +316,7 @@ img {
 
 .post-title {
   margin: 0 0 1rem;
-  font-size: 2.5rem;
+  font-size: 2rem;
   line-height: 1.2;
 }
 
@@ -335,6 +335,7 @@ img {
 
 .post-content {
   margin-bottom: 3rem;
+  font-size: 0.9375rem;
 }
 
 .post-content h2 {
@@ -362,7 +363,7 @@ img {
   width: 100%;
   border-collapse: collapse;
   margin: 2rem 0;
-  font-size: 0.9375rem;
+  font-size: 0.8125rem;
   display: block;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
