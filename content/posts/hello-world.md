@@ -19,7 +19,7 @@ At 47, I find myself wanting to document what I've learned. Not because I have a
 This blog will cover:
 
 - **Rails development** - The craft of building web applications
-- **Productivity** - Systems and habits that work in real life
+- **Productivity** - Systems and habits that work in real life, including my journey through [25 years of failed systems](/posts/25-years-of-failing-to-get-organized/)
 - **Personal growth** - Lessons from stoicism, parenting, and experience
 
 No schedule, no pressure. Just honest writing when I have something worth saying.
