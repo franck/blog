@@ -89,3 +89,7 @@ I'm 47. I've tried to get organized since I was 22. Nothing worked until I stopp
 This morning, I opened my daily note. The first line asked: "What's the ONE thing today?"
 
 For the first time in 25 years, I had an answer.
+
+---
+
+**Related:** [Every Task I Do Today Traces Back to Who I Want to Be in 2027](/posts/every-task-i-do-today-traces-back-to-who-i-want-to-be-in-2027/)
